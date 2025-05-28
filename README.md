@@ -23,5 +23,5 @@ run the .exe
 ## notes
 
 - if it says "no solution", double check that you entered it right
-- it tries a ton of swaps — might take a second if it’s being stubborn
+- it tries a ton of swaps — might take a second if it’s being stubborn, just press solve again
 - enjoy!
