@@ -1,6 +1,6 @@
-# PFSolver - Puzzle Game
+# Pocket Frogs - Puzzle Game
 
-this is a small little thing i made to solve the frog puzzle since it was making me mad.
+this is a little thing i made to solve the frog puzzle since it was making me mad.
 
 ---
 
