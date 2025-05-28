@@ -1,7 +1,6 @@
 # PFSolver - Puzzle Game
 
 this is a small little thing i made to solve the frog puzzle since it was making me mad.
-every frog in the grid needs to be in a horizontal/vertical group of 3+ matching.
 
 ---
 
