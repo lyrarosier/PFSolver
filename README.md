@@ -12,7 +12,7 @@ run the .exe
 
 ## how to use
 
-- input your puzzle on the left — 6 lines, 6 frogs each (use letters to represent the colour of the frog)
+- input your puzzle on the left — 6 lines, 6 frogs each (use letters to represent the colour of the frog, or numbers, or whatever)
 - look at guide image for an example
 - click **solve**
 - a viable solution shows up on the right
