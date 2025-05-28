@@ -1,4 +1,4 @@
-# Pocket Frogs - Puzzle Game
+# Pocket Frogs - Puzzle Game Solver
 
 this is a little thing i made to solve the frog puzzle since it was making me mad.
 
