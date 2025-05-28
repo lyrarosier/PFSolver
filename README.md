@@ -6,7 +6,7 @@ this is a small little thing i made to solve the frog puzzle since it was making
 
 ## how to run
 
-run the .exe
+download and run the .exe
 
 ---
 
